@@ -27,6 +27,7 @@
 \C#\Registration Free Deployment
 \C#\Take Screenshots During Recording
 \C#\Video Audio Settings
+\C#\Video Quality Profiles
 \C#\WEBM - Capture From Entire Screen
 \C++ (managed)\Capture and Add Time Stamp
 \C++ (managed)\Capture From Entire Screen
@@ -59,6 +60,7 @@
 \VB.NET\Pause And Resume
 \VB.NET\Take Screenshots During Recording
 \VB.NET\Video Audio Settings
+\VB.NET\Video Quality Profiles
 \VB.NET\WEBM output - Capture From Entire Screen
 \VBScript and VB6\Blackout Sensitive Info
 \VBScript and VB6\Capture and Add Red Text
