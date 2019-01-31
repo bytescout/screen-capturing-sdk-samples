@@ -38,6 +38,7 @@
 \C++ (managed)\record screen video from Region Around Mouse
 \C++ (managed)\record screen video With Webcamera Overlay
 \C++ (unmanaged)\Capture From Entire Screen as WEBM video
+\C++ (unmanaged)\Capture Video And Add Time Stamp
 \C++ (unmanaged)\Capture video From Entire Screen
 \C++ (unmanaged)\Capture video From Entire Screen in QT
 \C++ (unmanaged)\Capture video From Given Region
@@ -84,6 +85,7 @@
 \VBScript and VB6\Set Low FPS and Min WMV Size for video
 \VBScript and VB6\Set Mouse Spot Size for screen video
 \VBScript and VB6\Set Multiple Regions Recording for video
+\VBScript and VB6\Set WMV Video Bitrate
 \VBScript and VB6\Show Capturing Properties Dialog
 \VBScript and VB6\Take manual Screenshots during video recording
 \VBScript and VB6\Take Screenshots On Click
