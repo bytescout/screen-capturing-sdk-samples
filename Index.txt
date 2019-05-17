@@ -48,6 +48,7 @@
 \C++ (unmanaged)\Capture Webm Video From Entire Screen in QT
 \Java\Record Screen Video
 \JavaScript\Capture Entire Screen Video
+\Registry\Set Options
 \VB.NET\Blackout Sensitive Info on Screen Video
 \VB.NET\Capture From Entire Screen into WEBM Video
 \VB.NET\Capture Screen Video and Add Time Stamp
