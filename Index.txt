@@ -9,6 +9,7 @@
 \Registry
 \VB.NET
 \VBScript and VB6
+\Windows
 \ASP.NET\Record Screen
 \C#\Add Text And Image Overlays to Screen Recording
 \C#\Blackout Sensitive Info on Screen Video
@@ -93,3 +94,4 @@
 \VBScript and VB6\Take Screenshots On Timer
 \VBScript and VB6\Use WEBM Output for Video
 \VBScript and VB6\Use WMV Profile for Video Settings
+\Windows\Fix audio recording not working
