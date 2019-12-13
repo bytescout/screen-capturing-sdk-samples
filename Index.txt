@@ -24,6 +24,8 @@
 \C#\Capture WebCam Full Screen Only
 \C#\Create Full Featured Screen Capturing App
 \C#\Make Full Screen Recording Demo 2 with Text And Images Overlay
+\C#\Merge AVI Video Files
+\C#\Merge WMV Video Files
 \C#\Pause And Resume
 \C#\Record Screen from Command Line Console
 \C#\Set Video Audio Settings
@@ -53,6 +55,8 @@
 \VB.NET\Blackout Sensitive Info on Screen Video
 \VB.NET\Capture From Entire Screen into WEBM Video
 \VB.NET\Capture Screen Video and Add Time Stamp
+\VB.NET\Merge AVI Video Files
+\VB.NET\Merge WMV Video Files
 \VB.NET\Pause And Resume Screen Video Recording
 \VB.NET\Record Screen Video from Command Line Console
 \VB.NET\Record Screen Video From Entire Screen
@@ -82,6 +86,8 @@
 \VBScript and VB6\Capture Video From FlashPlayer Control In Browser
 \VBScript and VB6\Capture Video From Silverlight Control In Browser
 \VBScript and VB6\Capture WebCam Full Screen Only
+\VBScript and VB6\Merge AVI Video Files
+\VBScript and VB6\Merge WMV Video Files
 \VBScript and VB6\Pause And Resume Screen Video Recording
 \VBScript and VB6\Set Blackout for Sensitive Info in Screen Video
 \VBScript and VB6\Set Low FPS and Min WMV Size for Video
