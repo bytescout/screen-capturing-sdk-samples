@@ -101,3 +101,4 @@
 \VBScript and VB6\Use WEBM Output for Video
 \VBScript and VB6\Use WMV Profile for Video Settings
 \Windows\Fix audio recording not working
+\Windows\Fix Scaling and Incorrect Coordinates
